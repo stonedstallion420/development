@@ -1,14 +1,23 @@
 {
   "files": {
-    "main.css": "/development/static/css/main.073c9b0a.css",
-    "main.js": "/development/static/js/main.ff62614a.js",
-    "static/media/logo.svg": "/development/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/development/static/css/main.87d62589.css",
+    "main.js": "/development/static/js/main.48c21093.js",
+    "static/media/caffeinato.jpg": "/development/static/media/caffeinato.2a710ea5f40a5b7d3ea0.jpg",
+    "static/media/altissio.jpg": "/development/static/media/altissio.a332290dcb3a03e1d9aa.jpg",
+    "static/media/solelio.jpg": "/development/static/media/solelio.1f3eab484c9ec167df1e.jpg",
+    "static/media/puerto_rico.jpg": "/development/static/media/puerto_rico.5ce7b6711699b9a234ed.jpg",
+    "static/media/colombia.jpg": "/development/static/media/colombia.8c165d3dbf492bac602a.jpg",
+    "static/media/intenso.jpg": "/development/static/media/intenso.c98a2b2a402985fa1b83.jpg",
+    "static/media/odacio.jpg": "/development/static/media/odacio.5230475462c918801ae0.jpg",
+    "static/media/voltesso.jpg": "/development/static/media/voltesso.987c6e2d8e20b977200a.jpg",
+    "static/media/scuro.jpg": "/development/static/media/scuro.c2b9a155675626e63f4d.jpg",
+    "static/media/diavolitto.jpg": "/development/static/media/diavolitto.e91fcb81b3193794546b.jpg",
     "index.html": "/development/index.html",
-    "main.073c9b0a.css.map": "/development/static/css/main.073c9b0a.css.map",
-    "main.ff62614a.js.map": "/development/static/js/main.ff62614a.js.map"
+    "main.87d62589.css.map": "/development/static/css/main.87d62589.css.map",
+    "main.48c21093.js.map": "/development/static/js/main.48c21093.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ff62614a.js"
+    "static/css/main.87d62589.css",
+    "static/js/main.48c21093.js"
   ]
 }
