@@ -20,10 +20,10 @@ function App() {
   });
   // Sort state
   const [sortCategory, setSortCategory] = useState("name");
+  // Aggregator states
   const [favorites, setFavorites] = useState(
     Object.fromEntries(PODS.map((pod) => [pod.id, false]))
   );
-  // Aggregator states
   const favoritesPrice = Object.entries(favorites)
     .filter(([, is_favorite]) => is_favorite)
     .map(([id]) => PODS_ID_TO_POD[id].price)
